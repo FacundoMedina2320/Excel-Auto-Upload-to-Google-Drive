@@ -74,7 +74,7 @@ crontab -e
     </code></pre>
 
    <h2>License 📄</h2>
-    <p>This project is licensed under the <strong>MIT License</strong>. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+    <p>This project is licensed under the <strong>MIT License</strong>. See the <a href="LICENSE.txt">LICENSE</a> file for more details.</p>
 
    <h2>Contributing 🤝</h2>
     <p>Feel free to fork the repository, make improvements, and submit pull requests!</p>
